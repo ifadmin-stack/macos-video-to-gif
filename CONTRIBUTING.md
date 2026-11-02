@@ -7,8 +7,8 @@
 请准备 macOS 13+、Apple Silicon Mac 和 Command Line Tools for Xcode。项目不需要完整 Xcode 或第三方依赖。
 
 ```bash
-git clone https://github.com/ifadmin-stack/biaoqingb.git
-cd biaoqingb
+git clone https://github.com/ifadmin-stack/macos-video-to-gif.git
+cd macos-video-to-gif
 ./setup.sh
 bash Scripts/test.sh
 open "build/表情包工厂.app"

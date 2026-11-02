@@ -23,8 +23,8 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/ifadmin-stack/biaoqingb.git
-cd biaoqingb
+git clone https://github.com/ifadmin-stack/macos-video-to-gif.git
+cd macos-video-to-gif
 ./setup.sh
 open "build/表情包工厂.app"
 ```
