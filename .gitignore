@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Swift and Xcode build products
+.build/
+.swiftpm/
+build/
+DerivedData/
+*.app/
+*.dSYM/
+*.xcresult/
+xcuserdata/
+*.xcuserstate
+
+# Coverage and test output
+.coverage
+coverage/
+coverage.xml
+*.profdata
+*.profraw
+
+# Local configuration
+.env
+.env.*
+!.env.example
